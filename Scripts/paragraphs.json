@@ -1,0 +1,21 @@
+{
+ "paragraphs":
+    [
+        {
+            "id": "About me",
+            "introduction": "I always want to introduce myself as RIS(Rashedul Islam Shuvo). It is a short form of my name and i wanna use this name as my logo of my upcoming creation. I am from Dhaka, Bangladesh. In my country there are still a lot of opportunity to explore. Because comparing to Canada our country didn’t use as much technology as canada.",
+            "missionid": "Mission Statement",
+            "missionStatement": "So, after completing my college. I decided to come here and pursue my higher education. So, since January 2020, I am studying Software Engineering in Centennial College. So that I can work for my country to fulfil the gap of technology in the upcoming days.",
+            "hobbiesid": "Loved To Do So"
+        },
+
+        {
+            "project1":"I live in Dhaka, only 20 minutes away from my university; but I get out from my house about 1 hour and 15 minutes before class will start. Because of terrible traffic jam, most of the time it takes about an hour to reach university. I remember a week, r Dhaka city was like half empty, at that week I went to university in 20 minutes.",
+            "project2": "Despite enormous potential of tourism in Bangladesh, the sector is facing different challenges like inadequate infrastructure, high cost of doing business and lack of branding, according to a study. Other challenges include concentrated tourist attractions, absence of promotional activity and poor certification policy, said the report prepared by USAID Bangladesh. According to my next plan I will look after this problem. Because still in our country doing their publicity manually and they didn’t use properly the advantage of Technology.",
+            "project3" : "My third project As the coronavirus outbreak quickly surges worldwide, many countries are adopting non-therapeutic preventive measures, which include travel bans, remote office activities, country lockdown, and most importantly, social distancing. However, these measures face challenges in Bangladesh, a lower-middle-income economy with one of the world's densest populations. Social distancing is difficult in many areas of the country, and with the minimal resources the country has, it would be extremely challenging to implement the mitigation measures. Mobile sanitization facilities and temporary quarantine sites and healthcare facilities could help mitigate the impact of the pandemic at a local level."
+
+        }
+        
+        
+    ]
+}
